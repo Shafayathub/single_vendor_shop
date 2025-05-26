@@ -1,7 +1,3 @@
-Here is a well-formatted version of your backend folder structure for `README.md` using Markdown syntax:
-
-```markdown
-## 📁 Backend Folder Structure
 
 ```
 
@@ -53,7 +49,5 @@ backend/
 ├── .gitignore
 ├── package.json
 └── tsconfig.json
-
-```
 ```
 
