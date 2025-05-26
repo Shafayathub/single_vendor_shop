@@ -1,3 +1,10 @@
+Here is a well-formatted version of your backend folder structure for `README.md` using Markdown syntax:
+
+```markdown
+## 📁 Backend Folder Structure
+
+```
+
 backend/
 ├── prisma/
 │   ├── schema.prisma
@@ -22,8 +29,8 @@ backend/
 │   │   │   ├── auth.service.ts
 │   │   │   ├── auth.routes.ts
 │   │   │   └── auth.validation.ts (using Zod)
-│   │   ├── users/             # (Example: if user profile management is separate)
-│   │   │   ├── user.model.ts  (Prisma models are central, but you might have interfaces)
+│   │   ├── users/             # (e.g., user profile management)
+│   │   │   ├── user.model.ts
 │   │   │   ├── user.controller.ts
 │   │   │   ├── user.service.ts
 │   │   │   └── user.routes.ts
@@ -46,3 +53,7 @@ backend/
 ├── .gitignore
 ├── package.json
 └── tsconfig.json
+
+```
+```
+
