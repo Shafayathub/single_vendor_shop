@@ -10,7 +10,7 @@ backend/
 │   ├── server.ts              # HTTP server setup & startup
 │   ├── config/                # Environment variables, etc.
 │   │   └── index.ts
-│   ├── core/                  # Core functionalities
+│   ├── app/                  # Core functionalities
 │   │   ├── middlewares/       # Global middlewares (error handling, auth)
 │   │   │   ├── errorHandler.ts
 │   │   │   └── authMiddleware.ts
